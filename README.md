@@ -11,7 +11,8 @@
 <br/>
 ![My Skills](https://skillicons.dev/icons?i=react,js,ts,sass,tailwind,nodejs,git,github,figma&theme=dark)<br/>
 <br/>
-🚀 **Upcoming project:** Learning and applying **Next.js**
+* 🚀 **Upcoming project:** Learning and applying **Next.js**
+* 👨‍💻 All of my projects are available at [https://fabiendev.com/](https://fabiendev.com/)
 
 ### Github Stats
 
